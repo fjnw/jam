@@ -1,0 +1,25 @@
+.search-image {
+  object-fit: cover;
+  height: 150px;
+  width: 150px;
+  border-radius: 0px;
+  border: none;
+  overflow: hidden;
+}
+
+/* text over card image */
+.search-img-overlay {
+  width:  150px;
+  font-size: 12pt;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  color: white;
+  background: rgba(127, 77, 184, .2);
+  text-shadow: 0px 0px 4px black;
+  overflow: hidden;
+}
+
+/* text over card image */
+.search-img-overlay:hover {
+  background: rgba(127, 77, 184, .8);
+}

@@ -1,0 +1,1 @@
+CREATE DATABASE jambid_db;

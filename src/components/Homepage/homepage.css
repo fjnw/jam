@@ -1,0 +1,62 @@
+.home-card {
+    border: none;
+}
+
+.home-image {
+    width: 150px !important;
+    height: 150px !important;
+    padding: 20px;
+    margin: -1px;
+    background: rgba(127, 77, 184, 1);
+    border-radius: 0px;
+    border: none;
+}
+
+.home-img-overlay {
+    border: none;
+}
+
+.home-img-overlay:hover {
+    background: rgba(127, 77, 184, .8);
+}
+
+.home-img-overlay-text {
+    font-size: 14pt;
+    font-weight: 600;
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    height: 100%;
+    position: relative;
+    top: 40%;
+}
+
+.search-image {
+    object-fit: cover;
+    height: 150px;
+    width: 150px;
+    border-radius: 0px;
+    border: none;
+    overflow: hidden;
+  }
+  
+  /* text over card image */
+  .search-img-overlay {
+    width:  150px;
+    font-size: 12pt;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    color: white;
+    background: rgba(127, 77, 184, .2);
+    text-shadow: 0px 0px 4px black;
+    overflow: hidden;
+  }
+  
+  /* text over card image */
+  .search-img-overlay:hover {
+    background: rgba(127, 77, 184, .8);
+  }
+
+  .timestamp {
+      color: red;
+      font-size: 9pt;
+  }

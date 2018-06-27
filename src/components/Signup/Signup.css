@@ -1,0 +1,24 @@
+/* shortens error popups */
+.alert p {
+	margin: 5px 0;
+}
+
+/* removes left border */
+.l-border {
+    border-left: none;
+}
+
+/* removes right padding */
+.r-pad{
+	padding-right: 0px !important; 
+}
+
+/* removes left padding */
+.l-pad {
+	padding-left: 0px !important;
+}
+
+.modal-body {
+	overflow: scroll;
+	max-height: 350px;
+}

@@ -1,0 +1,150 @@
+/* image pane */
+.product-img  {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* input field - title only */
+.field-title {
+    height: 50px;
+    line-height: 1.2em;
+    resize: none;
+}
+
+/* category dropdown */
+.category-dropdown{
+    border: none;
+    padding: 4px 4px 4px 20px;
+    color: rgb(136, 71, 190);  
+}
+
+/* datepicker - window container */
+.react-datepicker__time-container {
+    width: 80px !important;  /*important needed*/
+}
+
+
+/* datepicker - time area*/
+.react-datepicker__time-list-item {
+    width: 80px;
+}
+/* datepicker - times */
+.react-datepicker__time-list {
+    padding: 0px;
+}
+
+/* datepicker - input field container */
+.react-datepicker__input-container {
+    margin: 10px 0 0 15px;
+}
+
+/* datepicker - input field */
+.react-datepicker__input-container input {
+    min-width: 210px;
+    border: none;
+    background: none;
+    color: #7f4db8;
+}
+
+/* image toggle */
+#pills-tab {
+    border: solid 1px #7f4db8;
+}
+
+/* highbid / yourbid containers */
+.split {
+    width: 49%;
+}
+
+/* highbid / yourbid headers */
+.split-header {
+    background: none;
+    border-bottom: none;
+    border-radius: 0px !important;
+    border: solid 1px #7f4db8;
+  }
+  
+/* new product componet - dollar symbol */
+.new-prod-dollar {
+    border: none !important;
+    background: none;
+    color: #7f4db8;
+    background: white;
+    text-align: center;
+    width: 40px !important; 
+    padding: 8px 0 0 0;
+}
+
+/* product componet  - dollar tag */
+.prod-dollar {
+    height: 38px;
+    width: 40px;
+    text-align: center;
+    background: #7f4db8;
+    color:white;
+    padding: 5px 0 0 0;
+}
+
+/* submit form */
+#submit-btn {
+    color: #7f4db8;
+    border: solid 1px #7f4db8;
+    background: none;
+    border-radius: 0px;
+  }
+
+  /* form submit btn */
+  #submit-btn:hover {
+    color:white;
+    background: #7f4db8;
+  }
+
+
+
+  /* removes bottom padding where used */
+  .form-shrink {
+      padding-bottom: 0;
+}
+
+#ask-label {
+    width: 60px !important; /* important needed */
+}
+
+.form-sign-up {
+    padding: 1em;
+}
+
+/* SEPARATE CLASSES AND IDs BELOW:   */
+/* PRODUCT NEW PAGE (ONLY) */
+
+#ghost {
+    height: 38px !important;
+    /* background: black; */
+}
+
+
+.file-toggle {
+    height: 70px !important;
+}
+
+.img-toggle-btn {
+    height: 35px !important;
+    line-height: 1;
+}
+
+#toggle-content {
+    padding: 5px 10px;
+}
+
+.url-input {
+    margin: 10px 0 0 0;
+    width: 100% !important;
+}
+
+
+
+
+/* PRODUCT PAGE (ONLY) */
+#title {
+    margin: 4px 0 0 0;
+}
