@@ -2,6 +2,8 @@
 
 A real-time application that provides a way to bid on an item, or even allow a user to post an item to be up for auction.
 
+Check it out: https://jam-fjnw.herokuapp.com/
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
